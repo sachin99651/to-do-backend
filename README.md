@@ -55,6 +55,7 @@ In .env I give the database URL the port number and the database name.
 - After deployment I introduced with cors and then I install it in my code and push it on github repository the render automatically make those changes.
 
 ## Links
-
-[GitHub Repository Link](https://github.com/sachin99651/to-do-backend.git)  
+[Frontend repository link](https://github.com/sachin99651/To-Do-List.git)  
+[Frontend Deployed Netlify Link](https://to-do-list-sch.netlify.app/)  
+[Backent repository link](https://github.com/sachin99651/to-do-backend.git)  
 [Render Deployed Api Link](https://to-do-backend-3of0.onrender.com)
